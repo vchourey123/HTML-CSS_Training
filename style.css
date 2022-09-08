@@ -1,0 +1,36 @@
+h1 {
+    color : green;
+}
+.Fake{
+    color : red;
+}
+body{
+    color: grey;
+}
+.box{
+    height  : 100px;
+    width : 250px;
+    padding : 10px;
+    margin : 40px;
+    border : 10px solid blanchedalmond;
+    background-color:  pink;
+}
+
+.some_class{
+    color : olivedrab;
+
+}
+[some_attribute = "False"]{
+
+    color : khaki;
+}
+body{
+    background-color: aliceblue;
+}
+p{
+    background-color: gainsboro;
+}
+[hello = "FALSE"]{
+    color: thistle;
+    background-color: azure;
+}
